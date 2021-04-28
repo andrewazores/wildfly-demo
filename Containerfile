@@ -1,4 +1,4 @@
-# podman build -f Containerfile.wildfly --tag=quay.io/andrewazores/wildfly-demo:latest
+# podman build -f Containerfile --tag=quay.io/andrewazores/wildfly-demo:latest
 
 FROM docker.io/jboss/wildfly:23.0.1.Final
 
